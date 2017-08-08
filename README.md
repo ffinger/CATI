@@ -9,7 +9,7 @@ __The impact of case-area targeted interventions in response to cholera outbreak
 The folder `data` contains the following files:
 
 - `data/casedata/locationOffset.csv` contains the xy-coordinates and dates of reported case households. The coordinates are in meters. A random offset has been added to each set of coordinates to make it impossible to identify household locations. The relative location of households, necessary to compute the tau-statistics, is preserved.
-- 
+- `data/casedata/epicurve.csv` contains the number of reported cases per day.
 
 ##Codes
 
