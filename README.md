@@ -1,7 +1,7 @@
-#CATI model for Cholera epidemics
+# CATI model for Cholera epidemics
 
 This repository contains the codes and data used for the following article:
- 
+
 __The impact of case-area targeted interventions in response to cholera outbreaks: A modeling study__
 
 ##Data
@@ -16,5 +16,4 @@ The folder `data` contains the following files:
 __Codes to be uploaded__
 
 The codes are under GPL-3.0+. 
-
 
