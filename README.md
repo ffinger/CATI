@@ -1,15 +1,19 @@
-#CATI model for Cholera epidemics
+# CATI model for Cholera epidemics
 
 This repository contains the codes and data used for the following article:
  
-__The impact of case-area targeted interventions in response to cholera outbreaks: A modeling study__
+__The potential impact of case-area targeted interventions in response to cholera outbreaks: A modeling study__
 
-__Codes to be uploaded follow__
+## Data
 
+The folder `data` contains the following files:
 
-## To load the epidemic curve:
+- `data/casedata/locationOffset.csv` contains the xy-coordinates and dates of reported case households. The coordinates are in meters. A random offset has been added to each set of coordinates to make it impossible to identify household locations. The relative location of households, necessary to compute the tau-statistics, is preserved.
+- `data/casedata/epicurve.csv` contains the number of reported cases per day.
 
-```
-import numpy as np
-epicurve=np.fromfile('epicurveNDjamena.binary',dtype=[('Date','datetime64[D]'),('NCases','int')])
-```
+## Codes
+
+__Codes to be uploaded__
+
+The codes are under GPL-3.0+. 
+
