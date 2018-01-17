@@ -12,7 +12,7 @@ The folder `data` contains the following files:
 
 - `data/casedata/epicurve.csv` contains the number of reported cases per day.
 
-- `data/population_distribution/populationDistrNdjamena.pickle` contains the population distribution obtained from the remotely sensed built-up density and can be loaded in python using the following commands:
+- `data/population_distribution/populationDistrNdjamena.pickle` contains the population distribution derived from the remotely sensed built-up density and can be loaded in python using the following commands:
 
 ```python
 library(pickle)
