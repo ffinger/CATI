@@ -32,3 +32,5 @@ Huffman, G. J., Adler, R. F., Bolvin, D. T. & Nelkin, E. J. (2010), The TRMM
 multi-satellite precipitation analysis (TMPA), in M. Gebremichael & F. Hossain,
 eds, ‘Satellite Rainfall Applications for Surface Hydrology’, Springer Netherlands,
 pp. 3–22.
+
+[![DOI](https://zenodo.org/badge/98530259.svg)](https://zenodo.org/badge/latestdoi/98530259)
