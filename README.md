@@ -1,4 +1,4 @@
-# CATI model for Cholera epidemics
+# CATI model
 
 This repository contains the data used in the following article:
 
