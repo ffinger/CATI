@@ -32,6 +32,8 @@ f.close()
 
 ## References
 
+Azman, A., Luquero, F.J., Salje, H., Naibei, N., Adalbert, N., Ali, M., Bertuzzo, E., Finger, F., Toure, B., Massing, L.A., Ramazani, R., Cardon, A., Saga, B., Allan, M., Olson, D., Leglise, J., Porten, K., Lessler, J., 2018. Micro-hotspots of Risk in Urban Cholera Epidemics. bioRxiv 248476. https://doi.org/10.1101/248476
+
 Esch, T., Heldens, W., Hirner, A., Keil, M., Marconcini, M., Roth, A., Zeidler, J., Dech, S., Strano, E. (2017): Breaking new ground in mapping human settlements from space – The Global Urban Footprint. ISPRS Journal of Photogrammetry and Remote Sensing 134 (2017) 30-42. https://doi.org/10.1016/j.isprsjprs.2017.10.012
 
 Esch, T., Schenk, A., Ullmann, T., Thiel, M., Roth, A., Dech, S. (2011): Characterization of Land Cover Types in TerraSAR-X Images by Combined Analysis of Speckle Statistics and Intensity Information. IEEE Transactions on Geoscience and Remote Sensing, Volume 49, Issue 6, pp. 1911-1925. https://doi.org/10.1109/TGRS.2010.2091644.
