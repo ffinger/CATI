@@ -1,4 +1,6 @@
-# CATI model for Cholera epidemics
+# CATI model
+
+[![DOI](https://zenodo.org/badge/98530259.svg)](https://zenodo.org/badge/latestdoi/98530259)
 
 This repository contains the data used in the following article:
 
@@ -12,7 +14,7 @@ The folder `data` contains the following files:
 
 - `data/casedata/epicurve.csv` contains the number of reported cases per day.
 
-- `data/population_distribution/populationDistrNdjamena.pickle` contains the population distribution obtained from the remotely sensed built-up density (Global Urban Footprint, Esch et al. (2017) and Esch et al. (2011)) and can be loaded in python using the following commands:
+- `data/population_distribution/populationDistrNdjamena.pickle` contains the population distribution derived from the remotely sensed built-up density (Global Urban Footprint, Esch et al. (2017) and Esch et al. (2011)) and can be loaded in python using the following commands:
 
 ```python
 library(pickle)
