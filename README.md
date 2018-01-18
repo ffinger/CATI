@@ -12,7 +12,7 @@ The folder `data` contains the following files:
 
 - `data/casedata/epicurve.csv` contains the number of reported cases per day.
 
-- `data/population_distribution/populationDistrNdjamena.pickle` contains the population distribution obtained from the remotely sensed built-up density and can be loaded in python using the following commands:
+- `data/population_distribution/populationDistrNdjamena.pickle` contains the population distribution obtained from the remotely sensed built-up density (Global Urban Footprint, Esch et al. (2017) and Esch et al. (2011)) and can be loaded in python using the following commands:
 
 ```python
 library(pickle)
@@ -27,6 +27,12 @@ f.close()
 - The TRMM precipitation data used is by Huffman et al. (2010) and can been obtained from [IRIDL].
 
 [IRIDL]: http://iridl.ldeo.columbia.edu/SOURCES/.NASA/.GES-DAAC/.TRMM_L3/.TRMM_3B42/.v7/.daily/.precipitation/X/15.0/15.25/RANGEEDGES/Y/12/12.25/RANGEEDGES/T/(01%20Apr%202011)(01%20May%202012)RANGEEDGES/
+
+## References
+
+Esch, T., Heldens, W., Hirner, A., Keil, M., Marconcini, M., Roth, A., Zeidler, J., Dech, S., Strano, E. (2017): Breaking new ground in mapping human settlements from space – The Global Urban Footprint. ISPRS Journal of Photogrammetry and Remote Sensing 134 (2017) 30-42. https://doi.org/10.1016/j.isprsjprs.2017.10.012
+
+Esch, T., Schenk, A., Ullmann, T., Thiel, M., Roth, A., Dech, S. (2011): Characterization of Land Cover Types in TerraSAR-X Images by Combined Analysis of Speckle Statistics and Intensity Information. IEEE Transactions on Geoscience and Remote Sensing, Volume 49, Issue 6, pp. 1911-1925. https://doi.org/10.1109/TGRS.2010.2091644.
 
 Huffman, G. J., Adler, R. F., Bolvin, D. T. & Nelkin, E. J. (2010), The TRMM
 multi-satellite precipitation analysis (TMPA), in M. Gebremichael & F. Hossain,
