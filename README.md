@@ -8,11 +8,13 @@ __The potential impact of case-area targeted interventions in response to choler
 
 ## Data
 
-The folder `data` contains the following files:
+The folder `data/casedata` contains the epidemic curve as well as the (anonymized) coordinates of case households. A detailed description of this data can be found in Azman et al. (2018).
 
-- `data/casedata/locationOffset.csv` contains the xy-coordinates and dates of reported case households. The coordinates are in meters. A random offset has been added to each set of coordinates to make it impossible to identify household locations. The relative location of households, necessary to compute the tau-statistics, is preserved.
+- `data/casedata/locationOffset.csv` contains the xy-coordinates and dates of reported case households. The coordinates are in meters. A random offset has been added to the coordinates to make it impossible to identify absolute household locations. The relative location of households, necessary to compute the tau-statistics, is preserved.
 
 - `data/casedata/epicurve.csv` contains the number of reported cases per day.
+
+In addition, the following data has been used:
 
 - `data/population_distribution/populationDistrNdjamena.pickle` contains the population distribution derived from the remotely sensed built-up density (Global Urban Footprint, Esch et al. (2017) and Esch et al. (2011)) and can be loaded in python using the following commands:
 
