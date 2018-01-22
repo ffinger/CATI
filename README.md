@@ -1,6 +1,6 @@
 # CATI model
 
-[![DOI](https://zenodo.org/badge/98530259.svg)](https://zenodo.org/badge/latestdoi/98530259)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1155525.svg)](https://doi.org/10.5281/zenodo.1155525)
 
 This repository contains the data used in the following article:
 
